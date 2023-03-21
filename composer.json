@@ -1,0 +1,12 @@
+{
+  "name": "suren/mvc-php-framework",
+  "description": "MVC PHP framework",
+  "autoload": {
+    "psr-4": {
+      "app\\": "."
+    },
+    "classmap": [
+      "app/"
+    ]
+  }
+}
