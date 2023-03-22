@@ -11,3 +11,4 @@ A task that counts leads
 5. Start php server by running command `php -S 127.0.0.1:8080` 
 6. Open in browser http://127.0.0.1:8080
 7. URL: http://127.0.0.1:8080/index and http://127.0.0.1:8080/index2
+8. Routing system written in file public/index.php. Made custom routing
